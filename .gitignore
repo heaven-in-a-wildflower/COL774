@@ -1,4 +1,4 @@
-ml_env
-books
-convex_optim
-resources
+ml_env/
+books/
+convex_optim/
+resources/
